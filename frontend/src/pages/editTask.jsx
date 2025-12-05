@@ -48,7 +48,7 @@ const EditTask = () => {
 
             <div className="d-flex justify-content-between align-items-center mb-4">
                 <h3>Editar Tarea</h3>
-                <button className="btn btn-secondary" onClick={() => navigate("/tasks")}>
+                <button className="btn btn-secondary" onClick={() => navigate("/")}>
                     Volver
                 </button>
             </div>
